@@ -1,0 +1,10 @@
+#Ignore the large CSV files -- user can regenerate using ipynb files
+/Data
+*.csv
+monthly_rides_by_station_2022_2023.csv
+
+
+#DS STORE
+.DS_Store
+
+
